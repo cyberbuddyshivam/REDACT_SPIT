@@ -1,0 +1,9 @@
+{
+  "watch": ["src", "app.js", "index.js"],
+  "ignore": ["src/**/*.test.js", "node_modules", ".git"],
+  "ext": "js,json",
+  "delay": 1000,
+  "env": {
+    "NODE_ENV": "development"
+  }
+}

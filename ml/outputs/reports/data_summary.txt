@@ -1,0 +1,37 @@
+{
+  "rows": 50000,
+  "cols": 25,
+  "features": [
+    "BMI",
+    "Glucose",
+    "HbA1c",
+    "Insulin",
+    "Cholesterol",
+    "LDL",
+    "HDL",
+    "Triglycerides",
+    "Troponin",
+    "ALT",
+    "AST",
+    "Bilirubin",
+    "Creatinine",
+    "BUN",
+    "CRP",
+    "Hemoglobin",
+    "Hematocrit",
+    "RBC",
+    "MCV",
+    "WBC",
+    "Platelets",
+    "SystolicBP",
+    "DiastolicBP",
+    "Cholesterol_HDL_Ratio"
+  ],
+  "target": "Disease",
+  "label_mapping": {
+    "Diabetes": 0,
+    "Heart Disease": 1,
+    "Kidney Disease": 2,
+    "Liver Disorder": 3
+  }
+}

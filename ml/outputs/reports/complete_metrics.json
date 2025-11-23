@@ -1,0 +1,24 @@
+{
+  "recall": {
+    "macro_recall": 1.0,
+    "weighted_recall": 1.0,
+    "per_class_recall": {
+      "Anemia": 1.0,
+      "Diabetes": 1.0,
+      "Healthy": 1.0,
+      "Thalasse": 1.0,
+      "Thromboc": 1.0
+    }
+  },
+  "secondary": {
+    "accuracy": 1.0,
+    "macro_precision": 1.0,
+    "macro_f1": 1.0,
+    "weighted_f1": 1.0
+  },
+  "error_analysis": {
+    "total_errors": 0,
+    "error_rate": 0.0,
+    "confusion_patterns": []
+  }
+}
